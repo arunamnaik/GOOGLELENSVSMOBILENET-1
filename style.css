@@ -1,0 +1,15 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+
+body{
+    background-color: lime;
+    font-family: fantasy;
+}
+
+ol{
+    background-color: darkgreen;
+    border-radius: 50px;
+    height: 200px;
+}
